@@ -14,19 +14,19 @@ A Kotlin-based Android application that demonstrates how to handle runtime permi
 
 ### **Permission Request**
 
-[https://permission_request.jpg]([https://permission_request.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%201.jpg))
+![https://permission_request.jpg]([https://permission_request.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%201.jpg))
 
 When the app launches, it requests the **`READ_CONTACTS`** permission necessary to access your device's contact list.
 
 ### **Contacts List (Permission Granted)**
 
-[https://contacts_allowed.jpg]([https://contacts_allowed.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%202.jpg))
+![https://contacts_allowed.jpg]([https://contacts_allowed.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%202.jpg))
 
 If you grant the permission, the app displays your actual device contacts in a scrollable list.
 
 ### **Dummy Contacts (Permission Denied)**
 
-[https://contacts_denied.jpg]([https://contacts_denied.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%203.jpg))
+![https://contacts_denied.jpg]([https://contacts_denied.jpg/](https://github.com/S30ULFR05T/read_contact_dispaly_name/blob/a5111492ac55cbddb706781416e98a7e7e6ea4f4/contact%203.jpg))
 
 If you deny the permission, the app shows a list of dummy contacts instead of your real ones.
 
