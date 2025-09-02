@@ -51,8 +51,6 @@ This project demonstrates:
 
 ## **Project Structure**
 
-text
-
 ```
 app/
 ├── manifests/
@@ -61,7 +59,6 @@ app/
 │   └── com.example.layout_practice_2/
 │       ├── ui.theme/
 │       ├── MainActivity.kt
-│       └── (other Kotlin files)
 └── res/
     ├── drawable/
     ├── layout/
